@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <string name="konten_berita">
+        ini isi konten berita
+        panjang lhoo,,,,,
+        yakin masih mau baca ?
+        kalo saya UP gan
+    </string>
+    <string name="iseng">isinya bohong</string>
+</resources>
