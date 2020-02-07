@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         int a = 10;
         int b = 5;
+        int c = 2000000000;
 
         Button btnPindah = findViewById(R.id.btn);
         btnPindah.setOnClickListener(new View.OnClickListener() {
